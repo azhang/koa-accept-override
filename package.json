@@ -13,7 +13,7 @@
     "url": "git+https://github.com/azhang/koa-accept-override.git"
   },
   "keywords": [
-    "express",
+    "koa",
     "middleware",
     "accept",
     "content-type"
