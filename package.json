@@ -25,13 +25,13 @@
   },
   "homepage": "https://github.com/azhang/koa-accept-override#readme",
   "devDependencies": {
-    "coveralls": "^2.11.4",
-    "eslint": "^1.10.3",
+    "coveralls": "^2.11.9",
+    "eslint": "^2.11.1",
     "istanbul": "^0.4.0",
     "koa": "^2.0.0",
     "koa-bodyparser": "^3.1.0",
     "mocha": "^2.3.3",
-    "publish": "^0.5.0",
+    "publish": "^0.6.0",
     "supertest-koa-agent": "^0.2.1"
   },
   "dependencies": {
